@@ -21,7 +21,7 @@ prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 pyee==5.0.0
 Pygments==2.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyppeteer==0.0.17
 pyquery==1.4.0
 PySocks==1.6.8
